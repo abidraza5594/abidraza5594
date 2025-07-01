@@ -149,7 +149,12 @@ const abid = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abidmehboob&theme=redical&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abidmehboob&theme=react-dark&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<!-- Backup: GitHub Contribution Calendar -->
+<div align="center">
+  <img src="https://ghchart.rshah.org/667eea/abidmehboob" alt="GitHub Contribution Chart" />
 </div>
 
 ---
