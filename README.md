@@ -1,108 +1,236 @@
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&vCenter=true&multiline=true&lines=Hi+%F0%9F%91%8B,+I'm+Abid+Ansari;A+Passionate+Developer" alt="Typing SVG" />
+<div align="center">
 
+  <!-- Animated Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abid%20Ansari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-https://twitter.com/AbidAnsari5594" target="_blank">
-https://img.shields.io/twitter/follow/AbidAnsari5594?logo=twitter&style=flat-square" alt="Twitter Follow" />
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Python+%7C+Django+Expert;Building+Amazing+Web+Experiences;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
-https://linkedin.com/in/abidansari" target="_blank">
-https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&colorB=0077B5" alt="LinkedIn" />
+  <!-- Social Badges -->
+  <p>
+    <a href="https://twitter.com/AbidAnsari5594"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/abidansari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:abidraza8104@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://instagram.com/abidansari5594"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  </p>
 
+  <!-- Profile Views & Followers -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=abidraza5594&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/abidraza5594?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+  </p>
 
-https://img.shields.io/badge/Email-abidraza8104%40gmail.com-FF0000?style=flat-square&logo=gmail&colorB=FF0000" alt="Email" />
+</div>
 
+<!-- Animated Coding GIF -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" width="500"/>
+</div>
 
+---
 
+## 🚀 About Me
 
-https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" alt="Coding Animation" width="400" />
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
+```javascript
+const abid = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Angular"],
+            css: ["Bootstrap", "Tailwind", "Material-UI"]
+        },
+        backEnd: {
+            python: ["Django", "Flask"],
+            js: ["Node", "Express"]
+        },
+        databases: ["MySQL", "PostgreSQL", "MongoDB"],
+        misc: ["Docker", "AWS", "Git", "Linux"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with console.log() and I'm proud of it!"
+};
+```
 
-I'm a Frontend Developer with expertise in React, and a strong foundation in Python and Django. Currently at LeadRat CRM, I'm passionate about creating seamless and engaging web experiences.
+### 🎯 Current Focus
+- 🔭 Working as **Frontend Developer** at **LeadRat CRM**
+- 🌱 Learning **Next.js** and **TypeScript** advanced patterns
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Django, Python, JavaScript**
+- 📫 Reach me: **abidraza8104@gmail.com**
+- ⚡ Fun fact: **Coffee + Code = Magic** ☕✨
 
+---
 
+## 🛠️ Tech Arsenal
 
+<div align="center">
 
-🛠️ Tech Stack
+### 🎨 Frontend Magic
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,bootstrap,tailwind,materialui" alt="Frontend Skills"/>
+</p>
 
-https://reactjs.org/" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+### ⚙️ Backend Power
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,flask" alt="Backend Skills"/>
+</p>
 
-https://angular.io" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="50" height="50"/>
+### 🗄️ Database & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,docker,aws,git,linux,github" alt="Database & DevOps"/>
+</p>
 
-https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>
+### 🔧 Tools & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,photoshop" alt="Tools"/>
+</p>
 
-https://www.python.org" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+</div>
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+---
 
-https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+## 🔥 Streak Stats
 
-https://rxjs.dev/" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" alt="rxjs" width="50" height="50"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=abidraza5594&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e39777&fire=e39777&currStreakLabel=e39777" alt="GitHub Streak Stats"/>
+</div>
 
-https://getbootstrap.com" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
+---
 
-https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+## 📊 GitHub Analytics
 
-https://www.w3.org/html/" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=abidraza5594&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidraza5594&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-https://nodejs.org" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+---
 
-https://expressjs.com" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
+## 🏆 Achievements
 
-https://www.mysql.com/" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abidraza5594&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
 
-https://www.postgresql.org" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
+---
 
-https://www.linux.org/" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+## 📈 Contribution Graph
 
-https://git-scm.com/" target="_blank" rel="noreferrer">
-https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abidraza5594&theme=redical&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+</div>
 
-https://www.mongodb.com/" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+---
 
+## 🎯 Current Projects
 
+<div align="center">
 
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abidraza5594&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/abidraza5594/portfolio)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abidraza5594&repo=react-projects&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/abidraza5594/react-projects)
 
+</div>
 
+---
 
-📊 GitHub Stats
+## � Experience & Learning
 
-https://github-readme-stats.vercel.app/api?username=abidraza5594&show_icons=true&theme=dark" alt="Abid Ansari's GitHub Stats" />
+<div align="center">
 
+### 🏢 Professional Journey
+```
+🚀 Frontend Developer @ LeadRat CRM
+   ├── Building responsive web applications
+   ├── React & Angular development
+   └── User experience optimization
 
-https://github-readme-streak-stats.herokuapp.com/?user=abidraza5594&theme=dark" alt="Abid Ansari's GitHub Streak" />
+🎓 Continuous Learning
+   ├── Advanced TypeScript patterns
+   ├── Next.js & Server-side rendering
+   └── Cloud technologies (AWS)
+```
 
+</div>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=abidraza5594&layout=compact&theme=dark" alt="Abid Ansari's Top Languages" />
+---
 
+## 🌟 Fun Zone
 
+<div align="center">
 
+  ### 🎵 Currently Vibing To
+  [![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
 
+  ### 🎮 When I'm Not Coding
+  - 📸 Photography enthusiast
+  - 🎵 Music lover
+  - 🌍 Travel explorer
+  - ☕ Coffee connoisseur
 
-🔗 Connect with Me
+</div>
 
-https://linkedin.com/in/abidansari" target="_blank">
-https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abidansari" height="30" width="40" />
+---
 
-https://instagram.com/abidansari5594" target="_blank">
-https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abidansari5594" height="30" width="40" />
+## 🤝 Let's Connect & Collaborate
 
-https://www.hackerrank.com/abidraza8104" target="_blank">
-https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abidraza8104" height="30" width="40" />
+<div align="center">
 
-https://leetcode.com/abidansari5594/" target="_blank">
-https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/abidansari5594/" height="30" width="40" />
+  <a href="https://linkedin.com/in/abidansari">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse"/>
+  </a>
+  <a href="https://twitter.com/AbidAnsari5594">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/abidansari5594">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/abidraza8104">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/abidansari5594/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+  </a>
+  <a href="mailto:abidraza8104@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 💡 Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+  ### 🐍 Contribution Snake
+  ![Snake animation](https://github.com/abidraza5594/abidraza5594/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<!-- Animated Footer -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+</div>
+
+<div align="center">
+  <h3>💫 Thanks for visiting! Let's build something amazing together! 💫</h3>
+  <p>
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+    <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+  </p>
+</div>
